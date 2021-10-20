@@ -1,5 +1,6 @@
 # A3C-network
 Initial code of an A3C network
+
 Open the python file named as "APL452 Project Report2" 
 The following libraries and packages have been installed:
 1. Tensorflow
